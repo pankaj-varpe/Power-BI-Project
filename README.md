@@ -16,9 +16,12 @@ This project demonstrates an interactive Power BI dashboard designed for an e-co
 📂 Files in this Repository
 
 - [Pankaj_E-Commerce_Dashboard.pbix](./Pankaj_E-Commerce_Dashboard.pbix) → Power BI project file.
-  
+    - Main Power BI project file containing the dashboard and all visualizations.
+      
 - Datasets (CSV format):
   
-  1. [Details.csv](./Details.csv)  
-  2. [Orders.csv](./Orders.csv)  
+  1. [Details.csv](./Details.csv)
+       - Contains customer details, product information, and supporting reference data.
+  3. [Orders.csv](./Orders.csv)
+       - Contains sales transaction records including order date, product, quantity, sales, and profit.
 
