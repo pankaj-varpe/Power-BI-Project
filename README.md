@@ -10,10 +10,14 @@ This project demonstrates an interactive Power BI dashboard designed for an e-co
 - Enhanced user-driven analysis through interactive navigation and slicers.
 
 📷 Dashboard Preview
-👉 Dashboard.png
+
+ ![Dashboard Preview](./Dashboard.png)
 
 📂 Files in this Repository
-E-Commerce_Dashboard.pbix → Power BI project file.
-Datasets (CSV format):
-Details.csv
-Orders.csv
+
+- [E-Commerce_Dashboard.pbix](./E-Commerce_Dashboard.pbix) → Power BI project file.
+  
+- Datasets (CSV format):  
+  1. [Details.csv](./Details.csv)  
+  2. [Orders.csv](./Orders.csv)  
+
