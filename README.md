@@ -17,4 +17,3 @@ E-Commerce_Dashboard.pbix → Power BI project file.
 Datasets (CSV format):
 Details.csv
 Orders.csv
-
